@@ -5,7 +5,7 @@ npm install --save redux-auto-save-session-after-dispatch
 ```
 
 ```javascript
-import autoSaveSessionAfterDispatch from '';
+import autoSaveSessionAfterDispatch from 'redux-auto-save-session-after-dispatch';
 const store = createStore(
     reducer,
     initStore,
