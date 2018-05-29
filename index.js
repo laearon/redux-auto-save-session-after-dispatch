@@ -13,3 +13,4 @@ export default ({ log = false, namespace }) => {
         return _r;
     }
 }
+
