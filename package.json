@@ -1,0 +1,17 @@
+{
+  "name": "redux-auto-save-session-after-dispatch",
+  "version": "0.0.1",
+  "description": "auto save seesion storage after every dispatch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "session",
+    "redux-session",
+    "middleware"
+  ],
+  "author": "Liu Chaofan",
+  "license": "MIT"
+}
