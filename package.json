@@ -13,5 +13,10 @@
     "middleware"
   ],
   "author": "Liu Chaofan",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/lcfme/redux-auto-save-session-after-dispatch#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcfme/redux-auto-save-session-after-dispatch.git"
+  }
 }
